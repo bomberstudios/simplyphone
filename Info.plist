@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <!-- Transparent Undocked Icon Labels -->
+    <key>UndockedIconLabelStyle</key>
+    <string>color: transparent</string>
+    <!-- Transparent Docked Icon Labels -->
+    <key>DockedIconLabelStyle</key>
+    <string>color: transparent</string>
+    <!-- badge text color -->
+    <key>BadgeStyle</key>
+    <string>color: white</string>
+  </dict>
+</plist>
