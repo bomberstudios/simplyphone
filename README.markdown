@@ -2,7 +2,7 @@
 
 A simple theme for jailbroken iPhones with WinterBoard.
 
-![Screenshot](http://sofanaranja.com/dl/simplyphone.png)
+![Screenshot](http://sofanaranja.com/dl/simplyphone_01.png) ![Screenshot](http://sofanaranja.com/dl/simplyphone_02.png)
 
 ## Features
 
